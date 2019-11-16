@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3b18fbf6-b2f0-421a-bfd1-fbc0a8fab1e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="3b18fbf6-b2f0-421a-bfd1-fbc0a8fab1e8" name="Default Changelist" comment="" />
+>>>>>>> 516b48804ddb6660224ae323d6bfad4faf0215b6
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +21,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1R4Klw4LFBFZ9nkNQVfxgeXAhtg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="ProjectId" id="1R4Klw4LFBFZ9nkNQVfxgeXAhtg" />
+>>>>>>> 516b48804ddb6660224ae323d6bfad4faf0215b6
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -78,6 +86,7 @@
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -91,4 +100,6 @@
       </map>
     </option>
   </component>
+=======
+>>>>>>> 516b48804ddb6660224ae323d6bfad4faf0215b6
 </project>
