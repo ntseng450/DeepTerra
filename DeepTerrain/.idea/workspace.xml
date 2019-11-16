@@ -1,7 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b18fbf6-b2f0-421a-bfd1-fbc0a8fab1e8" name="Default Changelist" comment="" />
+    <list default="true" id="3b18fbf6-b2f0-421a-bfd1-fbc0a8fab1e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TerrainClassification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCIFAR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepTerrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepTerrain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulder9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/boulders/boulders40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/train/clean/clean9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/boulders/boulders1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/boulders/boulders2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/boulders/boulders3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/boulders/boulders4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/boulders/boulders5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/boulders/boulders6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/boulders/boulders7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/clean/clean1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/clean/clean2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/clean/clean3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/clean/clean4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/clean/clean5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/clean/clean6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoverImageset/val/rocks/rocks1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/RoverImageset/val/rocks/rocks1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_models/keras_cifar10_trained_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/saved_models/keras_cifar10_trained_model.h5" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +115,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1R4Klw4LFBFZ9nkNQVfxgeXAhtg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -71,5 +175,18 @@
       <updated>1568921082190</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
