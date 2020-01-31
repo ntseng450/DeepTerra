@@ -32,7 +32,7 @@ def get_soup(url, header):
 
 def get_query_url(query):
     #"https://www.google.co.in/search?q=%s&source=lnms&tbm=isch&ijn=3"
-    return "https://www.google.co.in/search?q=%s&source=lnms&tbm=isch&ijn=2" % query
+    return "https://www.google.co.in/search?q=%s&source=lnms&tbm=isch&ijn=1" % query
 
 def extract_images_from_soup(soup):
     image_elements = soup.find_all("div", {"class": "rg_meta"})

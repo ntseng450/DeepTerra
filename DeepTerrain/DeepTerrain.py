@@ -9,7 +9,7 @@ from keras.callbacks import LearningRateScheduler, TerminateOnNaN
 from keras.optimizers import Adam, SGD
 import os
 
-batch_size = 12
+batch_size = 16
 num_classes = 3
 epochs = 120
 data_augmentation = True
@@ -26,7 +26,7 @@ datagen = ImageDataGenerator(
 
 train_it = datagen.flow_from_directory(
     directory = 'RoverImageSet/train/',
-    target_size = (160,160),
+    target_size = (240,240),
     color_mode = 'rgb',
     batch_size = batch_size,
     class_mode = 'categorical',
@@ -35,7 +35,7 @@ train_it = datagen.flow_from_directory(
 
 val_it = datagen.flow_from_directory(
     directory = 'RoverImageSet/val/',
-    target_size = (160,160),
+    target_size = (240,240),
     color_mode = 'rgb',
     batch_size = 4,
     class_mode = 'categorical',
@@ -47,7 +47,7 @@ val_steps = val_it.n//val_it.batch_size
 labels = (train_it.class_indices)
 for category_label in labels:
     print(category_label)
-input_shape = (160, 160,3)
+input_shape = (240, 240,3)
 
 model = Sequential()
 model.add(Conv2D(32, (3, 3), input_shape=input_shape))
@@ -66,7 +66,7 @@ model.add(Flatten())
 model.add(Dense(100))
 model.add(Activation('relu'))
 model.add(Dropout(0.5))
-model.add(Dense(5))
+model.add(Dense(7))
 model.add(Activation('softmax'))
 
 adam = Adam(lr=0.001, beta_1=0.9, beta_2=0.999, epsilon=1e-08, decay=0.0)
